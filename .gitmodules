@@ -1,0 +1,3 @@
+[submodule "week2-io/iospec2"]
+	path = week2-io/iospec2
+	url = https://github.com/quag/iospec2
